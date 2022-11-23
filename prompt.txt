@@ -1,0 +1,2 @@
+<<UUID>>
+<<Name>> has recently posted on LinkedIn that he has attended a <<Interest>> hackathon hosted by some colleges and is interested to participate in other hackathons also. Write an invitation mail to <<Name>> mentioning that we have read his LinkedIn post about his recent participation in <<Interest>> hackathon and also inviting him to a <<Duration>> offline Hackathon, <<Event_Name>> hosted by <<Venue>> on <<Date>>. For registration and More details about this hackathon visit this site <<Link>>.
